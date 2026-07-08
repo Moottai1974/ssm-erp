@@ -1,0 +1,338 @@
+[
+    {
+        "ref_no": "Q-0001",
+        "issue_date": "08/07/2026",
+        "expiry_days": "30",
+        "customer_name": "ASL Shipyard Pte Ltd",
+        "customer_kind_attn": "Mr. Aminul",
+        "customer_address": "No. 19 Pandan Road, Jurong\nSingapore 609271",
+        "ship_name": "summa trial",
+        "main_job": "supply spares",
+        "mrs_pr_no": "N.A",
+        "grand_total": "310.00",
+        "table_data": [
+            {
+                "SN": "1",
+                "SSN": "0",
+                "Description": "SUPPLY ADAPTOR",
+                "Qty": "1.0",
+                "Unit": "Pcs",
+                "Unit Price": "150.00",
+                "Total Price": "150.00",
+                "N1": "",
+                "N2": "",
+                "N3": "",
+                "N4": "",
+                "N5": ""
+            },
+            {
+                "SN": "2",
+                "SSN": "0",
+                "Description": "SUPPLY CAP",
+                "Qty": "1.0",
+                "Unit": "PCs",
+                "Unit Price": "160.00",
+                "Total Price": "160.00",
+                "N1": "None",
+                "N2": "None",
+                "N3": "None",
+                "N4": "None",
+                "N5": "None"
+            }
+        ]
+    },
+    {
+        "ref_no": "Q-0002",
+        "issue_date": "08/07/2026",
+        "expiry_days": "30",
+        "customer_name": "Goltens Singapore Pte Ltd",
+        "customer_kind_attn": "Mr.  Mani",
+        "customer_address": "No.6A, Benoi Road\nSingapore 629881",
+        "ship_name": "1646-260739 Himsen 16H32/40V",
+        "main_job": "Pump Overhauling",
+        "mrs_pr_no": "N.A",
+        "grand_total": 1900.0,
+        "table_data": [
+            {
+                "SN": "1",
+                "SSN": "a",
+                "Description": "Lube oil pump dismantling/ cleaning/ calibration /packing/ preparation of inspection and completion report as per goltens rewuirement of based on given drawing and format",
+                "Qty": 2.0,
+                "Unit": "Pcs",
+                "Unit Price": 700.0,
+                "Total Price": 1400.0,
+                "N1": "",
+                "N2": "",
+                "N3": "",
+                "N4": "",
+                "N5": ""
+            },
+            {
+                "SN": "",
+                "SSN": "b",
+                "Description": "Bush Renewal",
+                "Qty": 10.0,
+                "Unit": "pcs",
+                "Unit Price": 50.0,
+                "Total Price": 500.0,
+                "N1": "Spares supply by Golyens",
+                "N2": "Price given only for workmenship ",
+                "N3": "If involve any repair works, it consider as additional cost.",
+                "N4": "None",
+                "N5": "None"
+            }
+        ]
+    },
+    {
+        "ref_no": "Q-0003",
+        "issue_date": "08/07/2026",
+        "expiry_days": "30",
+        "customer_name": "Goltens Singapore Pte Ltd",
+        "customer_kind_attn": "Mr.  Mani",
+        "customer_address": "No.6A, Benoi Road\nSingapore 629881",
+        "ship_name": "1646-260739 Himsen 16H32/40V",
+        "main_job": "Pump Overhauling",
+        "mrs_pr_no": "N.A",
+        "grand_total": 1900.0,
+        "table_data": [
+            {
+                "SN": "1",
+                "SSN": "a",
+                "Description": "Lube oil pump dismantling/ cleaning/ calibration /packing/ preparation of inspection and completion report as per goltens rewuirement of based on given drawing and format",
+                "Qty": 2.0,
+                "Unit": "Pcs",
+                "Unit Price": 700.0,
+                "Total Price": 1400.0,
+                "N1": "",
+                "N2": "",
+                "N3": "",
+                "N4": "",
+                "N5": ""
+            },
+            {
+                "SN": "1",
+                "SSN": "b",
+                "Description": "Bush Renewal",
+                "Qty": 10.0,
+                "Unit": "pcs",
+                "Unit Price": 50.0,
+                "Total Price": 500.0,
+                "N1": "Spares supply by Golyens",
+                "N2": "Price given only for workmenship ",
+                "N3": "If involve any repair works, it consider as additional cost.",
+                "N4": "None",
+                "N5": "None"
+            }
+        ]
+    },
+    {
+        "ref_no": "Q-0004",
+        "issue_date": "08/07/2026",
+        "expiry_days": "30",
+        "customer_name": "Goltens Singapore Pte Ltd",
+        "customer_kind_attn": "Mr.  Mani",
+        "customer_address": "No.6A, Benoi Road\nSingapore 629881",
+        "ship_name": "1646-260739 Himsen 16H32/40V",
+        "main_job": "Pump Overhauling",
+        "mrs_pr_no": "N.A",
+        "grand_total": 1900.0,
+        "table_data": [
+            {
+                "SN": "1",
+                "SSN": "a",
+                "Description": "Lube oil pump dismantling/ cleaning/ calibration /packing/ preparation of inspection and completion report as per goltens rewuirement of based on given drawing and format",
+                "Qty": 2.0,
+                "Unit": "Pcs",
+                "Unit Price": 700.0,
+                "Total Price": 1400.0,
+                "N1": "",
+                "N2": "",
+                "N3": "",
+                "N4": "",
+                "N5": ""
+            },
+            {
+                "SN": "2",
+                "SSN": "b",
+                "Description": "Bush Renewal",
+                "Qty": 10.0,
+                "Unit": "pcs",
+                "Unit Price": 50.0,
+                "Total Price": 500.0,
+                "N1": "Spares supply by Golyens",
+                "N2": "Price given only for workmenship ",
+                "N3": "If involve any repair works, it consider as additional cost.",
+                "N4": "None",
+                "N5": "None"
+            }
+        ]
+    },
+    {
+        "ref_no": "Q-0005",
+        "issue_date": "08/07/2026",
+        "expiry_days": "30",
+        "customer_name": "Goltens Singapore Pte Ltd",
+        "customer_kind_attn": "Mr.  Mani",
+        "customer_address": "No.6A, Benoi Road\nSingapore 629881",
+        "ship_name": "1646-260739 Himsen 16H32/40V",
+        "main_job": "Pump Overhauling",
+        "mrs_pr_no": "N.A",
+        "grand_total": 1900.0,
+        "table_data": [
+            {
+                "SN": "1",
+                "SSN": "a",
+                "Description": "Lube oil pump dismantling/ cleaning/ calibration /packing/ preparation of inspection and completion report as per goltens rewuirement of based on given drawing and format",
+                "Qty": 2.0,
+                "Unit": "Pcs",
+                "Unit Price": 700.0,
+                "Total Price": 1400.0,
+                "N1": "",
+                "N2": "",
+                "N3": "",
+                "N4": "",
+                "N5": ""
+            },
+            {
+                "SN": "2",
+                "SSN": "b",
+                "Description": "Bush Renewal",
+                "Qty": 10.0,
+                "Unit": "pcs",
+                "Unit Price": 50.0,
+                "Total Price": 500.0,
+                "N1": "Spares supply by Golyens",
+                "N2": "Price given only for workmenship ",
+                "N3": "If involve any repair works, it consider as additional cost.",
+                "N4": "None",
+                "N5": "None"
+            }
+        ]
+    },
+    {
+        "ref_no": "Q-0006",
+        "issue_date": "08/07/2026",
+        "expiry_days": "30",
+        "customer_name": "Goltens Singapore Pte Ltd",
+        "customer_kind_attn": "Mr.  Mani",
+        "customer_address": "No.6A, Benoi Road\nSingapore 629881",
+        "ship_name": "1646-260739 Himsen 16H32/40V",
+        "main_job": "Pump Overhauling",
+        "mrs_pr_no": "N.A",
+        "grand_total": 1900.0,
+        "table_data": [
+            {
+                "SN": "1",
+                "SSN": "a",
+                "Description": "Lube oil pump dismantling/ cleaning/ calibration /packing/ preparation of inspection and completion report as per goltens rewuirement of based on given drawing and format",
+                "Qty": 2.0,
+                "Unit": "Pcs",
+                "Unit Price": 700.0,
+                "Total Price": 1400.0,
+                "N1": "",
+                "N2": "",
+                "N3": "",
+                "N4": "",
+                "N5": ""
+            },
+            {
+                "SN": "2",
+                "SSN": "b",
+                "Description": "Bush Renewal",
+                "Qty": 10.0,
+                "Unit": "pcs",
+                "Unit Price": 50.0,
+                "Total Price": 500.0,
+                "N1": "Spares supply by Golyens",
+                "N2": "Price given only for workmenship ",
+                "N3": "If involve any repair works, it consider as additional cost.",
+                "N4": "None",
+                "N5": "None"
+            }
+        ]
+    },
+    {
+        "ref_no": "Q-0007",
+        "issue_date": "08/07/2026",
+        "expiry_days": "30",
+        "customer_name": "Goltens Singapore Pte Ltd",
+        "customer_kind_attn": "Mr.  Mani",
+        "customer_address": "No.6A, Benoi Road\nSingapore 629881",
+        "ship_name": "1646-260739 Himsen 16H32/40V",
+        "main_job": "Pump Overhauling",
+        "mrs_pr_no": "N.A",
+        "grand_total": 1900.0,
+        "table_data": [
+            {
+                "SN": "1",
+                "SSN": "a",
+                "Description": "Lube oil pump dismantling/ cleaning/ calibration /packing/ preparation of inspection and completion report as per goltens rewuirement of based on given drawing and format",
+                "Qty": 2.0,
+                "Unit": "Pcs",
+                "Unit Price": 700.0,
+                "Total Price": 1400.0,
+                "N1": "",
+                "N2": "",
+                "N3": "",
+                "N4": "",
+                "N5": ""
+            },
+            {
+                "SN": "2",
+                "SSN": "b",
+                "Description": "Bush Renewal",
+                "Qty": 10.0,
+                "Unit": "pcs",
+                "Unit Price": 50.0,
+                "Total Price": 500.0,
+                "N1": "Spares supply by Golyens",
+                "N2": "Price given only for workmenship ",
+                "N3": "If involve any repair works, it consider as additional cost.",
+                "N4": "None",
+                "N5": "None"
+            }
+        ]
+    },
+    {
+        "ref_no": "Q-0008",
+        "issue_date": "08/07/2026",
+        "expiry_days": "30",
+        "customer_name": "Goltens Singapore Pte Ltd",
+        "customer_kind_attn": "Mr.  Mani",
+        "customer_address": "No.6A, Benoi Road\nSingapore 629881",
+        "ship_name": "1646-260739 Himsen 16H32/40V",
+        "main_job": "Pump Overhauling",
+        "mrs_pr_no": "N.A",
+        "grand_total": 1900.0,
+        "table_data": [
+            {
+                "SN": "1",
+                "SSN": "a",
+                "Description": "Lube oil pump dismantling/ cleaning/ calibration /packing/ preparation of inspection and completion report as per goltens rewuirement of based on given drawing and format",
+                "Qty": 2.0,
+                "Unit": "Pcs",
+                "Unit Price": 700.0,
+                "Total Price": 1400.0,
+                "N1": "",
+                "N2": "",
+                "N3": "",
+                "N4": "",
+                "N5": ""
+            },
+            {
+                "SN": "2",
+                "SSN": "b",
+                "Description": "Bush Renewal",
+                "Qty": 10.0,
+                "Unit": "pcs",
+                "Unit Price": 50.0,
+                "Total Price": 500.0,
+                "N1": "Spares supply by Golyens",
+                "N2": "Price given only for workmenship ",
+                "N3": "If involve any repair works, it consider as additional cost.",
+                "N4": "None",
+                "N5": "None"
+            }
+        ]
+    }
+]
